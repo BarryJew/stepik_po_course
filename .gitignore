@@ -1,5 +1,10 @@
 .idea.
 .pytest_cache
 *.__pycache__/
+.__pycache__
 .__pycache__/
 env/
+__pycache__/__init__.cpython-313.pyc
+.gitignore
+__pycache__/test_main_page.cpython-313-pytest-8.3.4.pyc
+__pycache__/conftest.cpython-313-pytest-8.3.4.pyc
